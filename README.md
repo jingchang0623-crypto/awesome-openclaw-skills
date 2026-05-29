@@ -96,6 +96,7 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 
 ### 🏥 Skills Health & Quality
 
+- [openclaw-skill-validator](https://github.com/jingchang0623-crypto/openclaw-skill-validator) - 🦞 发布前自动化验证工具。6维检查（必需文件/SKILL.md结构/危险命令/敏感信息/依赖/最佳实践）+ 100分制评分 + 徽章生成。支持 text/json/markdown 输出，可集成 CI/CD。By miaoquai.com
 - [openclaw-skills-healthkit](https://github.com/jingchang0623-crypto/openclaw-skills-healthkit) - 🩺 6维健康度评分 (结构/文档/安全/依赖/测试/含虾率) + 自动修复工具。遵循 3 AM Rule——凌晨3点无人监控时仍正常运行的 Skill 才是合格的。
 
 ### 🤖 Model Providers
@@ -213,6 +214,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 Tools to help you create, validate, package, and distribute OpenClaw skills.
 
 - **[openclaw-skills-packager](https://github.com/jingchang0623-crypto/openclaw-skills-packager)** - 📦 Package, validate, and distribute OpenClaw skills like npm publish for Skills. Supports `init`, `validate`, `pack`, and `install` commands. Compatible with OpenClaw v2026.5.19+ `--global` flag.
+- **[openclaw-skills-healthkit](https://github.com/jingchang0623-crypto/openclaw-skills-healthkit)** - 🏥 6维健康度评分 (结构/文档/安全/依赖/测试/含虾率) + 自动修复工具。遵循 3 AM Rule——凌晨3点无人监控时仍正常运行的 Skill 才是合格的。
 
 
 
