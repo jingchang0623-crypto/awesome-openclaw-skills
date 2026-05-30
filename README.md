@@ -97,6 +97,7 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 ### 🏥 Skills Health & Quality
 
 - [openclaw-skills-healthkit](https://github.com/jingchang0623-crypto/openclaw-skills-healthkit) - 🩺 6维健康度评分 (结构/文档/安全/依赖/测试/含虾率) + 自动修复工具。遵循 3 AM Rule——凌晨3点无人监控时仍正常运行的 Skill 才是合格的。
+- [openclaw-skill-benchmark](https://github.com/jingchang0623-crypto/openclaw-skill-benchmark) - ⏱️ 自动化技能基准测试工具。测量执行性能、输出质量、一致性，生成JSON报告与智能优化建议。比语法检查更进一步——真正跑起来才知道好坏。
 
 ### 🤖 Model Providers
 
